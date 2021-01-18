@@ -18,7 +18,8 @@
     "id": "cordova-plugin-advanced-http",
     "platforms": [
       "ios",
-      "android"
+      "android",
+      "windows"
     ]
   },
   "repository": {

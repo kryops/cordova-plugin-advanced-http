@@ -93,4 +93,9 @@
       <runs/>
     </js-module>
   </platform>
+  <platform name="windows">
+      <js-module src="src/windows/cordova-http-plugin.js" name="http-proxy">
+          <runs />
+      </js-module>
+  </platform>
 </plugin>
